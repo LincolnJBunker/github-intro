@@ -2,4 +2,4 @@ console.log("Hello World");
 
 let name = "Mohammad";
 
-console.log(name);
+console.log("name");
